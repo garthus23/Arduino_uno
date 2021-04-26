@@ -18,4 +18,5 @@ void setup()
 void loop()
 {
 	tricolore_blink();
+	tricolore_melted();
 }

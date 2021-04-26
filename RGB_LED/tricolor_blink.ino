@@ -6,13 +6,13 @@
 #define	delayTime 10
 
 void tricolore_blink()
-{
-	int redValue;
+{	
 	int greenValue;
 	int blueValue;
+	int redValue;
 
 	// Blue color
-
+	
 	redValue = 0;
 	greenValue = 0;
 	blueValue = 255;

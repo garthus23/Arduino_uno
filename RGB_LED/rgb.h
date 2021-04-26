@@ -4,3 +4,4 @@
 #define RED 6
 
 void tricolore_blink();
+void tricolore_melted();
