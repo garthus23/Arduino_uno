@@ -11,7 +11,7 @@
 const int sensorPin = A0; // Pin connected to sensor
 const int ledPin = 3; // Pin connected to sensor
 
-const int stepsPerRevolution = 2048;  // change this to fit the number of steps per revolution
+const int stepsPerRevolution = 128;  // change this to fit the number of steps per revolution
 const int rolePerMinute = 15;         // Adjustable range of 28BYJ-48 stepper is 0~17 rpm
 
 // initialize the stepper library on pins 8 through 11:
